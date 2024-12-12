@@ -61,3 +61,73 @@ body{
     border: none;
     margin-top: 32px;
 }
+
+/* My failures section CSS */
+
+.my-failures-section{
+    margin-top: 325px;
+}
+
+.my-failures-container{
+    display: flex;
+    margin: 0 400px;
+}
+
+.my-failures-img-background{
+    width: 528px;
+    height: 528px;
+    border-radius: 527.929px;
+    background: rgba(241, 91, 34, 0.20);
+
+    }
+
+.my-failures-img-container{
+    position: absolute;
+    top: 1100px;
+    left: 379.14px;
+}
+
+.my-failures-content{
+ margin-left: 140px;
+}
+
+.my-failures-title{
+    width: 288px;
+    color: #151414;
+    font-family: "Work Sans";
+    font-size: 40px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.my-failures-des{
+    width: 416px;
+    color: #444343;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top: 24px;
+}
+
+.my-failures-list{
+    color: #444343;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 30px;
+}
+
+.my-failures-list p {
+    margin-bottom: 8px;
+}
+
+.list-1{
+    display: flex;
+}
+
+.list-1 p{
+    margin-left: 10px;
+    margin-top: 8px;
+}
+

@@ -131,3 +131,44 @@ body{
     margin-top: 8px;
 }
 
+/* My plans section CSS */
+
+.my-plans-container{
+    margin: 200px 230px 0 230px;
+}
+
+.my-plans-title{
+    color: #151414;
+    font-family: "Work Sans";
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.my-plans-contents{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.plans-content{
+    text-align: center;
+}
+
+.plans-content h3{
+    color: #151414;
+    font-family: "Work Sans";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 16px;
+}
+
+.plans-content h6{
+    color: #737272;
+    font-family: "Work Sans";
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+}
